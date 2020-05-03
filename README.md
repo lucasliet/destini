@@ -1,4 +1,4 @@
-# Destini   ![](https://raw.githubusercontent.com/lucasliet/destini/master/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png)
+# ![](https://raw.githubusercontent.com/lucasliet/destini/master/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png) Destini
 Simple text adventure game like Bandersnatch from Netflix
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Destini.gif)
