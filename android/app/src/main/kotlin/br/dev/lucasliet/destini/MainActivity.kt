@@ -1,4 +1,4 @@
-package com.example.destini
+package br.dev.lucasliet.destini
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
